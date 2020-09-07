@@ -33,7 +33,7 @@
 26,Raichu,Electric,,485,60,90,55,90,80,110,1,FALSE,"Flying, Water",Ground,Not Effective Against Ground,#N/A,#N/A
 27,Sandshrew,Ground,,300,50,75,85,20,30,40,1,FALSE,"Electric, Fire, Poison, Rock, Steel","Grass, Ice, Water",Immune to Electric; Not Effective Against Flying,22,None
 28,Sandslash,Ground,,450,75,100,110,45,55,65,1,FALSE,"Electric, Fire, Poison, Rock, Steel","Grass, Ice, Water",Immune to Electric; Not Effective Against Flying,#N/A,#N/A
-29,Nidoran?€,Poison,,275,55,47,52,40,40,41,1,FALSE,"Fairy, Grass","Ground, Psychic",Not Effective Against Steel,#N/A,#N/A
+29,Nidoran(female),Poison,,275,55,47,52,40,40,41,1,FALSE,"Fairy, Grass","Ground, Psychic",Not Effective Against Steel,#N/A,#N/A
 30,Nidorina,Poison,,365,70,62,67,55,55,56,1,FALSE,"Fairy, Grass","Ground, Psychic",Not Effective Against Steel,#N/A,#N/A
 31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,1,FALSE,"Fairy, Grass, Electric, Fire, Poison, Rock, Steel","Ground, Psychic, Grass, Ice, Water","Not Effective Against Steel, Immune to Electric; Not Effective Against Flying",#N/A,#N/A
 32,Nidoran,Poison,,273,57,40,40,40,50,41,1,FALSE,"Fairy, Grass","Ground, Psychic",Not Effective Against Steel,#N/A,#N/A
